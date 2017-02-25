@@ -1,0 +1,58 @@
+h1 {
+  position: absolute;
+  color: white;
+  font-size: 139px;
+  height: 60%;
+  width: 60%;
+  top: 20%;
+  bottom: 20% right: 20%;
+  left: 20%;
+  text-align: center;
+  display: inline;
+}
+.left-div{
+  color: blue;
+  font-size: 50px;
+  text-align: left;
+}
+.right-div{
+  /* border: 5px solid red; */
+  color: blue;
+  position: absolute;
+  font-size: 30px;
+  height: 30px;
+  width: 248px;
+  top: 11px;
+  right: 85px;
+}
+body{
+  background-image: url(../image/unchartedreinerreivew.jpg),url(../image/teenesrb.gif);
+  background-position: center,bottom right;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+.red4{
+  color: red;
+      /*background: white;*/
+      position: absolute;
+      text-align: center;
+      font-size: 190px;
+      height: 14px;
+      width: 53px;
+      top: 40%;
+      bottom: 10% right: 10%;
+      left: 76%;
+      right: 25%;
+}
+#teenesrb{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  height: 150px;
+}
+#naughty-dog{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  height: 50px;
+}
